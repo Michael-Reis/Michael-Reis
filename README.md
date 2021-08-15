@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3>&nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
@@ -43,14 +43,14 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+<a href="https://github.com/Michael-Reis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelReis&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: MICHAEL REIS](https://img.shields.io/badge/-MichaelReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-reis/)](https://www.linkedin.com/in/michael-reis/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michael.f.r@hotmail.com)](mailto: michael.f.r@hotmail.com)
+[![GitHub MICHAEL REIS]( https://img.shields.io/github/followers/MichaelReis?label=follow&style=social)](https://github.com/Michael-Reis)
