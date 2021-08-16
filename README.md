@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/Michael-Reis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelReis&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael-Reis&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
