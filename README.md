@@ -52,5 +52,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/michael-reis)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:michael.f.r@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-michael.f.r@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:michael.f.r@gmail.com)
 [![GitHub Michael Reis]( https://img.shields.io/github/followers/Michael-Reis?label=follow&style=social)](https://github.com/Michael-Reis/)
