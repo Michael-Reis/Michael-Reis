@@ -4,7 +4,7 @@
 <h3>&nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
+- 🎓 &nbsp; Formado em **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
 - 💼 &nbsp; Trabalhando como **COORDENADOR DE TECNOLOGIA** na <a href="http://orit.com.br/">ORIT</a>
 - 🌱 &nbsp; Aprendendo mais sobre **DESENVOLVIMENTO MOBILE**.
 
