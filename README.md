@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
-- 💼 &nbsp; Trabalhando como **ANALISTA DESENVOLVEDOR** na <a href="http://orit.com.br/">ORIT</a>
+- 💼 &nbsp; Trabalhando como **COORDENADOR DE TECNOLOGIA** na <a href="http://orit.com.br/">ORIT</a>
 - 🌱 &nbsp; Aprendendo mais sobre **DESENVOLVIMENTO MOBILE**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
