@@ -15,7 +15,7 @@
   ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php&logoColor=007396)
   ![NODE](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=mysql)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![ReactJS](https://img.shields.io/badge/-ReactJs-333333?logo=react&style=flat)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
