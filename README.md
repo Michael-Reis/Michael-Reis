@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Apaixonado por tecnologia e regras de negócio, fascinado por desenvolvimento e hacking.
 - 🎓 &nbsp; Formado em **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
 - 🎓 &nbsp; Pós-graduado em **ARQUITETURA DE SOFTWARE** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 💼 &nbsp; Trabalhando como **GERENTE DE TECNOLOGIA** na <a href="http://orit.com.br/">ORIT</a>
+- 💼 &nbsp; Trabalhando como **HEAD DE TECNOLOGIA** na <a href="http://orit.com.br/">ORIT</a>
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
